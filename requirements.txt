@@ -1,0 +1,11 @@
+# UI
+streamlit
+dotenv
+google-cloud-vision
+pdf2image
+arxiv
+# RAG
+langchain
+langchain_google_genai
+langchain_community
+chromadb
